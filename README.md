@@ -14,6 +14,28 @@ The System should allow input in two ways.
  2) It should accept a filename as a parameter at the command prompt and read the
      commands from that file.
      
+# Running the program
+Note:- Before running, please make sure java is installed on the system and path is properly set.
+
+  1.Interactive mode :- In this mode the program run in interactive command prompt based shell where commands can be typed in.
+  
+  Output Snapshot   
+  
+  <img width="425" alt="Screenshot (598)" src="https://user-images.githubusercontent.com/10654133/111153839-721e5800-85b8-11eb-8429-6fe042e74655.png">
+  
+   2.File based input :- It accept filename as a parameter at the command prompt and read the commands from that file. 
+  
+  Output Snapahot      
+  
+<img width="421" alt="Screenshot (597)" src="https://user-images.githubusercontent.com/10654133/111153860-7a769300-85b8-11eb-84c6-bb11e1623633.png">                                  
+
+ 
+
+
+
+     
+     
+     
 # Sample Test Cases and Outputs
 
 ● Input(contents of file)
